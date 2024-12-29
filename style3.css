@@ -1,0 +1,22 @@
+.container  {
+    display: flex;
+ 
+     
+ }
+ .sidebar {
+ 
+     background-color:aqua;
+     width:15%;
+     display:flex;
+     justify-content:space-between;
+     
+ }
+     
+ .main {
+ 
+     background-color: aquamarine;
+     width: 85%;
+     height: 2000px;
+ } 
+   
+  
